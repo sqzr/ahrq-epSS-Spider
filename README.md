@@ -1,2 +1,3 @@
 # ahrq-epSS-Spider
-采用scrapy爬取Ahrq epss 主题
+抓取http://epss.ahrq.gov/ePSS/Topics.do下提示  
+输出`html` 和 `txt` 格式到当前目录下
